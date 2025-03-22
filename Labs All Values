@@ -29,7 +29,7 @@
       "SavedCost": 1000000
     }
   },
-  "Starting Cash": {
+  "Starting Points": {
     "1": {
       "Duration": 14,
       "SavedCost": 30
@@ -1621,7 +1621,7 @@
       "SavedCost": 4190000
     }
   },
-  "Labs Coin Discount": {
+  "Labs Cash Discount": {
     "1": {
       "Duration": 19,
       "SavedCost": 40
@@ -2019,7 +2019,7 @@
       "SavedCost": 13670000
     }
   },
-  "Lab Speed": {
+  "Labs Speed": {
     "1": {
       "Duration": 24,
       "SavedCost": 40
@@ -2463,7 +2463,7 @@
       "SavedCost": 3000000
     }
   },
-  "Damage": {
+  "Attack Damage": {
     "1": {
       "Duration": 14,
       "SavedCost": 30
@@ -3263,7 +3263,7 @@
       "SavedCost": 4190000
     }
   },
-  "Critical Factor": {
+  "Critical Multiplier": {
     "1": {
       "Duration": 14,
       "SavedCost": 30
@@ -3661,7 +3661,7 @@
       "SavedCost": 4190000
     }
   },
-  "Range": {
+  "Attack Range": {
     "1": {
       "Duration": 14,
       "SavedCost": 30
@@ -3983,7 +3983,7 @@
       "SavedCost": 2320000
     }
   },
-  "Damage / Meter": {
+  "Damage Per Meter": {
     "1": {
       "Duration": 14,
       "SavedCost": 30
@@ -6073,7 +6073,7 @@
       "SavedCost": 4310000
     }
   },
-  "Defense %": {
+  "Defense Percent": {
     "1": {
       "Duration": 3599,
       "SavedCost": 5000
@@ -7155,7 +7155,7 @@
       "SavedCost": 783630000000
     }
   },
-  "Cash Bonus": {
+  "Points Bonus": {
     "1": {
       "Duration": 14,
       "SavedCost": 30
@@ -7553,7 +7553,7 @@
       "SavedCost": 4190000
     }
   },
-  "Cash / Wave": {
+  "Points Per Wave": {
     "1": {
       "Duration": 14,
       "SavedCost": 30
@@ -7951,7 +7951,7 @@
       "SavedCost": 4190000
     }
   },
-  "Coins / Kill Bonus": {
+  "Cash Per Kill Bonus": {
     "1": {
       "Duration": 14,
       "SavedCost": 30
@@ -8349,7 +8349,7 @@
       "SavedCost": 4190000
     }
   },
-  "Coins / Wave": {
+  "Cash Per Wave": {
     "1": {
       "Duration": 14,
       "SavedCost": 30
